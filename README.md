@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##✨I'm Ibrahim Osman. A Software Engineer from Stockholm, Sweden.✨
+##I'm Ibrahim Osman. A Software Engineer from Stockholm, Sweden.✨
 
 ---
 
