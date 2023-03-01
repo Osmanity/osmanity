@@ -1,7 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-✨I'm Ibrahim Osman. A Software Engineer from Stockholm, Sweden.✨
+##✨I'm Ibrahim Osman. A Software Engineer from Stockholm, Sweden.✨
 
+---
+
+I'm a software engineer specializing in full-stack web & mobile development.
+I make content about full-stack development on my website osmanity.com & Instagram page @osmanity_studio
 <!--
 **Osmanity/osmanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
