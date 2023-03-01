@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✨I'm Ibrahim Osman. A Software Engineer from Stockholm, Sweden.✨
+
 <!--
 **Osmanity/osmanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
