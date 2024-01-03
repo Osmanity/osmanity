@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center"> Hi there 👋, I'm Ibrahim Osman.</h1>
+<h1 align="center"> Hi  👋, I'm Ibrahim Osman.</h1>
 <h3 align="center"> ✨A passionate Software Engineer from Stockholm, Sweden.✨</h3>
 
 <h4 align="center"> I'm a software engineer specializing in full-stack web & mobile development.
