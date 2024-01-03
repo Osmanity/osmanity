@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h4 align="center"> I'm a software engineer specializing in full-stack web & mobile development.
 I make content about full-stack development on my website osmanity.com & Instagram page @osmanity_studio</h4>
 
-
+gshslskje
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
